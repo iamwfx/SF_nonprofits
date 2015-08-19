@@ -1,0 +1,278 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<style>
+.d3-tip {
+    line-height: 1;
+    color: black; 
+    font-family: Helvetica;
+    font-size: 12px;
+}
+
+.node {
+  stroke: #fff;
+  stroke-width: 0.5px;
+  fill-opacity: .8;
+}
+
+.node titel {
+  font: 9px helvetica;
+}
+
+
+.link {
+  stroke: #999;
+  stroke-opacity: .3;
+}
+
+.header {
+  width: 100%;
+  height:10%;
+  background-color: white ;
+  position: fixed;
+  border-width: 0px 0px 2px 0px;
+  border-color: #777777;
+  border-style: solid;
+}
+
+.header h1 {
+  margin-left: 20px;
+  margin-top: 20px;
+  font-family: Garamond,Baskerville,Baskerville Old Face,Hoefler Text,Times New Roman,serif; 
+  font-size: 36px; 
+  font-style: normal; 
+  font-variant: normal; 
+  font-weight: 500; 
+  line-height: 15.4px; }
+  
+}
+
+.container {
+  top: 10%;
+  height: 80%;
+  width: 100%;
+  overflow: scroll;
+  position:fixed;
+}
+
+.viz {
+  width: 100%;
+  height: 1400px;
+}
+body{
+  width: 100%;
+  height: 100%;
+}
+
+</style>
+
+<script src="http://d3js.org/d3.v3.min.js"></script>
+<script type='text/javascript' src="http://labratrevenge.com/d3-tip/javascripts/d3.tip.v0.6.3.js"> </script>
+<script>
+window.onload = function() {
+
+  var width = 1920;
+  var height = 1400;
+
+  var color = d3.scale.category20b();
+
+  var force = d3.layout.force()
+      .charge(-1400)
+      .linkDistance(90)
+      .friction(.5)
+      .size([width, height]);
+
+  var elem = d3.select('.viz');
+
+  var svg = d3.select(".viz").append("svg")
+      .attr("width", width)
+      .attr("height", height);
+
+
+
+  var scale = d3.scale.linear()
+                      // .domain([0,24])
+                      .domain([1,1419399768])
+                      // .domain([0,29000000000])
+                      .range([5,40]);
+
+  svg.append("defs").selectAll("marker")
+    .data(["target"])      // Different link/path types can be defined here
+  .enter().append("svg:marker")    // This section adds in the arrows
+    .attr("id", String)
+    .attr("viewBox", "0 -5 10 10")
+    .attr("refX",25)
+
+    // .attr("refX", function(d) {
+    // console.log(d)
+    // return scale(d.Assets);
+    // // console.log(5*scale(d.Assets));
+    // })
+    .attr("refY", 0)
+    .attr("markerWidth",6)
+    .attr("markerHeight",6)
+    .attr("orient", "auto")
+  .append("svg:path")
+    .attr("d", "M0,-5L10,0L0,5 L10,0 L0, -5")
+    .style("stroke", "#999")
+    .style('stroke-width',"3")
+    .style("opacity", "1");
+
+  var tip = d3.tip()
+      .attr('class', 'd3-tip')
+      .offset([-10, 0])
+      .attr("font-family", "sans-serif")      
+      .attr("font-size", "20px")
+      .html(function (d) {
+      return  "Org: "+d.Label;
+      })
+    svg.call(tip);
+  
+
+  d3.json("sf_arts.json", function(error, graph) {
+    force
+        .nodes(graph.nodes)
+        .links(graph.links)
+        .start();
+
+    var link = svg.append("svg:g").selectAll(".link")
+        .data(graph.links)
+      .enter().append("line")
+        .attr("class", "link")
+        .attr("marker-end", "url(#target)");
+
+
+
+
+    var node = svg.selectAll(".node")
+        .data(graph.nodes)
+      .enter().append("circle")
+        .attr("class", "node")
+        .attr("r", function(d) { 
+          if(d.ID == 63)
+            {
+              console.log(d.Label)
+              return 60;
+            }
+          else{
+           return scale(d.Assets); 
+          }
+           })
+          // function(d) { return Math.round(d.LN_Assets);})
+        .style("fill",function(d) { 
+          if(d.City == 'SAN FRANCISCO '){
+            return '#00f9a6';
+          } 
+          else{
+            return '#777777';}
+          })
+        .call(force.drag)
+        .on('dblclick', connectedNodes)
+        .on('mouseover', tip.show) //Added
+       .on('mouseout', tip.hide); //Added 
+    node.append("title")
+        .text(function(d) { return d.name; });
+
+    force.on("tick", function() {
+      link.attr("x1", function(d) { return d.source.x; })
+          .attr("y1", function(d) { return d.source.y; })
+          .attr("x2", function(d) { return d.target.x; })
+          .attr("y2", function(d) { return d.target.y; });
+
+      node.attr("cx", function(d) { return d.x; })
+          .attr("cy", function(d) { return d.y; });
+
+      node.each(collide(1)); //Added 
+
+    });
+    //---Insert-------
+
+  //Toggle stores whether the highlighting is on
+  var toggle = 0;
+
+  //Create an array logging what is connected to what
+  var linkedByIndex = {};
+  for (i = 0; i < graph.nodes.length; i++) {
+      linkedByIndex[i + "," + i] = 1;
+  };
+  graph.links.forEach(function (d) {
+      linkedByIndex[d.source.index + "," + d.target.index] = 1;
+  });
+
+  //This function looks up whether a pair are neighbours  
+  function neighboring(a, b) {
+      return linkedByIndex[a.index + "," + b.index];
+  }
+
+  function connectedNodes() {
+
+      if (toggle == 0) {
+          //Reduce the opacity of all but the neighbouring nodes
+          d = d3.select(this).node().__data__;
+          node.style("opacity", function (o) {
+              return neighboring(d, o) | neighboring(o, d) ? 1 : 0.1;
+          });
+          
+          link.style("opacity", function (o) {
+              return d.index==o.source.index | d.index==o.target.index ? 1 : 0.1;
+          });
+
+          
+          toggle = 1;
+      } else {
+          node.style("opacity", 1);
+          link.style("opacity", 1);
+          toggle = 0;
+      }
+
+  }
+
+  var padding = 10; // separation between circles
+  var radius=8;
+  function collide(node) {
+    var r = node.radius + 16,
+        nx1 = node.x - r,
+        nx2 = node.x + r,
+        ny1 = node.y - r,
+        ny2 = node.y + r;
+    return function(quad, x1, y1, x2, y2) {
+      if (quad.point && (quad.point !== node)) {
+        var x = node.x - quad.point.x,
+            y = node.y - quad.point.y,
+            l = Math.sqrt(x * x + y * y),
+            r = node.radius + quad.point.radius;
+        if (l < r) {
+          l = (l - r) / l * .5;
+          node.x -= x *= l;
+          node.y -= y *= l;
+          quad.point.x += x;
+          quad.point.y += y;
+        }
+      }
+      return x1 > nx2 || x2 < nx1 || y1 > ny2 || y2 < ny1;
+    };
+  }
+
+  });
+
+};
+
+
+
+</script>
+
+</head>
+
+<body>
+  <div class='header'>
+    <h1>Header</h1>
+  </div>
+  <div class='container'>
+    <div class='viz'></div>
+  </div>
+</body>
+
+
+</html>

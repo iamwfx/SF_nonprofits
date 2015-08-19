@@ -1,0 +1,2442 @@
+[
+'nodes':[
+  {
+    "ID":27,
+    "EIN":363432023,
+    "Label":"CHICAGO COMMUNITY FOUNDATION",
+    "Address":"225 N MICHIGAN AVE",
+    "City":"CHICAGO ",
+    "State":"IL",
+    "Zip":"60601-775",
+    "Assets":1,
+    "Income":1,
+    "Revenue":1
+  },
+  {
+    "ID":53,
+    "EIN":136162841,
+    "Label":"INTERNATIONAL COMMITTEE ON JOURNALISM INC",
+    "Address":"370 1ST AVE APT 2C",
+    "City":"NEW YORK ",
+    "State":"NY",
+    "Zip":"10010-494",
+    "Assets":1,
+    "Income":1176,
+    "Revenue":1176
+  },
+  {
+    "ID":102,
+    "EIN":943386001,
+    "Label":"SOUND SAFE INC",
+    "Address":"870 MARKET ST STE 1260",
+    "City":"SAN FRANCISCO ",
+    "State":"CA",
+    "Zip":"94102-291",
+    "Assets":1,
+    "Income":1,
+    "Revenue":1
+  },
+  {
+    "ID":54,
+    "EIN":946757863,
+    "Label":"JACK H LUND CHARITABLE TR",
+    "Address":"1000 LOMBARD ST",
+    "City":"SAN FRANCISCO ",
+    "State":"CA",
+    "Zip":"94109-151",
+    "Assets":12297,
+    "Income":1,
+    "Revenue":1
+  },
+  {
+    "ID":40,
+    "EIN":450501297,
+    "Label":"FRIENDS OF THE JEWISH CULTURE FESTIVAL SOCIETY INC",
+    "Address":"300 E 42ND ST 8TH FLR",
+    "City":"NEW YORK ",
+    "State":"NY",
+    "Zip":"10017-594",
+    "Assets":27561,
+    "Income":336276,
+    "Revenue":331581
+  },
+  {
+    "ID":28,
+    "EIN":770414442,
+    "Label":"CHONG-MOON LEE FOUNDATION",
+    "Address":"2440 W EL CAMINO REAL STE 300",
+    "City":"MOUNTAIN VIEW ",
+    "State":"CA",
+    "Zip":"94040-149",
+    "Assets":28578,
+    "Income":585000,
+    "Revenue":585000
+  },
+  {
+    "ID":104,
+    "EIN":386058308,
+    "Label":"SPX FOUNDATION",
+    "Address":"13320 BALLANTYNE CORPORATE PL",
+    "City":"CHARLOTTE ",
+    "State":"NC",
+    "Zip":"28277-360",
+    "Assets":36414,
+    "Income":1,
+    "Revenue":1
+  },
+  {
+    "ID":10,
+    "EIN":363337340,
+    "Label":"AON FOUNDATION",
+    "Address":"PO BOX 81200",
+    "City":"CHICAGO ",
+    "State":"IL",
+    "Zip":"60681-020",
+    "Assets":50035,
+    "Income":1,
+    "Revenue":1
+  },
+  {
+    "ID":92,
+    "EIN":941656083,
+    "Label":"SAN FRANCISCO CONSORTIUM",
+    "Address":"2130 FULTON ST",
+    "City":"SAN FRANCISCO ",
+    "State":"CA",
+    "Zip":"94117-108",
+    "Assets":64533,
+    "Income":216,
+    "Revenue":216
+  },
+  {
+    "ID":129,
+    "EIN":770381972,
+    "Label":"WENDER-WEIS FOUNDATION FOR CHILDREN",
+    "Address":"555 BRYANT ST STE 300",
+    "City":"PALO ALTO ",
+    "State":"CA",
+    "Zip":"94301-170",
+    "Assets":72640,
+    "Income":1,
+    "Revenue":1
+  },
+  {
+    "ID":55,
+    "EIN":133852855,
+    "Label":"JAVNE FUND",
+    "Address":"420 COLUMBUS AVE STE 304",
+    "City":"VALHALLA ",
+    "State":"NY",
+    "Zip":"10595-138",
+    "Assets":74942,
+    "Income":750577,
+    "Revenue":750577
+  },
+  {
+    "ID":12,
+    "EIN":30524939,
+    "Label":"ARTS FEDERATION INC",
+    "Address":"125 WASHINGTON ST STE 201",
+    "City":"SALEM ",
+    "State":"MA",
+    "Zip":"01970-353",
+    "Assets":94386,
+    "Income":204855,
+    "Revenue":204855
+  },
+  {
+    "ID":61,
+    "EIN":946063948,
+    "Label":"JULIA KLUMPKE TRUST",
+    "Address":"695 PACHECO ST",
+    "City":"SAN FRANCISCO ",
+    "State":"CA",
+    "Zip":"94116-137",
+    "Assets":174671,
+    "Income":25879,
+    "Revenue":17333
+  },
+  {
+    "ID":26,
+    "EIN":581970134,
+    "Label":"CENTRAL EUROPE CENTER FOR RESEARCH & DOCUMENTATION INC",
+    "Address":"1141 LOXFORD TER",
+    "City":"SILVER SPRING ",
+    "State":"MD",
+    "Zip":"20901-113",
+    "Assets":178066,
+    "Income":997432,
+    "Revenue":997432
+  },
+  {
+    "ID":64,
+    "EIN":316675733,
+    "Label":"KANBAR CHARITABLE TR",
+    "Address":"121 STEUART STREET",
+    "City":"SAN FRANCISCO ",
+    "State":"CA",
+    "Zip":"94105-123",
+    "Assets":397123,
+    "Income":1700001,
+    "Revenue":1700001
+  },
+  {
+    "ID":75,
+    "EIN":132700517,
+    "Label":"NATIONAL CONFERENCE ON SOVIET JEWRY",
+    "Address":"2020 K STREET NW STE 7800",
+    "City":"WASHINGTON ",
+    "State":"DC",
+    "Zip":"20006-180",
+    "Assets":407347,
+    "Income":981622,
+    "Revenue":981622
+  },
+  {
+    "ID":1,
+    "EIN":582138525,
+    "Label":"ALLIANCE OF ARTISTS COMMUNITIES",
+    "Address":"255 S MAIN ST",
+    "City":"PROVIDENCE ",
+    "State":"RI",
+    "Zip":"02903-291",
+    "Assets":487568,
+    "Income":849587,
+    "Revenue":839667
+  },
+  {
+    "ID":82,
+    "EIN":941748316,
+    "Label":"PATAPHYSICAL BROADCASTING FOUNDATION INC",
+    "Address":"203 8TH AVE",
+    "City":"SANTA CRUZ ",
+    "State":"CA",
+    "Zip":"95062-461",
+    "Assets":549641,
+    "Income":1159007,
+    "Revenue":1159007
+  },
+  {
+    "ID":5,
+    "EIN":133813924,
+    "Label":"AMERICAN FRIENDS OF THE SHANGHAI MUSEUM INC",
+    "Address":"530 E 86TH ST SUITE 10 B",
+    "City":"NEW YORK ",
+    "State":"NY",
+    "Zip":"10028-753",
+    "Assets":555418,
+    "Income":121744,
+    "Revenue":121744
+  },
+  {
+    "ID":105,
+    "EIN":30490864,
+    "Label":"SWINERTON FOUNDATION",
+    "Address":"260 TOWNSEND ST 5TH FLR",
+    "City":"SAN FRANCISCO ",
+    "State":"CA",
+    "Zip":"94107-171",
+    "Assets":727201,
+    "Income":1,
+    "Revenue":1
+  },
+  {
+    "ID":130,
+    "EIN":770276529,
+    "Label":"WILSON SONSINI GOODRICH & ROSATI FOUNDATION",
+    "Address":"650 PAGE MILL RD",
+    "City":"PALO ALTO ",
+    "State":"CA",
+    "Zip":"94304-100",
+    "Assets":792172,
+    "Income":898977,
+    "Revenue":898977
+  },
+  {
+    "ID":71,
+    "EIN":943182526,
+    "Label":"MOLDAW FAMILY SUPPORTING FOUNDATION",
+    "Address":"121 STEUART STREET",
+    "City":"SAN FRANCISCO ",
+    "State":"CA",
+    "Zip":"94105-123",
+    "Assets":890194,
+    "Income":1110363,
+    "Revenue":140642
+  },
+  {
+    "ID":80,
+    "EIN":943284917,
+    "Label":"NEW ART TRUST",
+    "Address":"3699 WASHINGTON ST",
+    "City":"SAN FRANCISCO ",
+    "State":"CA",
+    "Zip":"94118-183",
+    "Assets":1013510,
+    "Income":1,
+    "Revenue":1
+  },
+  {
+    "ID":86,
+    "EIN":571154844,
+    "Label":"REBOOT INC",
+    "Address":"245 RUSSELL ST STE 20",
+    "City":"HADLEY ",
+    "State":"MA",
+    "Zip":"01035-956",
+    "Assets":1037208,
+    "Income":1783145,
+    "Revenue":1783145
+  },
+  {
+    "ID":107,
+    "EIN":931104762,
+    "Label":"TARBELL FAMILY FOUNDATION",
+    "Address":"220 NW 2ND AVE STE 1000",
+    "City":"PORTLAND ",
+    "State":"OR",
+    "Zip":"97209-394",
+    "Assets":1101023,
+    "Income":1,
+    "Revenue":1
+  },
+  {
+    "ID":128,
+    "EIN":61663494,
+    "Label":"VASICEK FOUNDATION",
+    "Address":"PO BOX 1501",
+    "City":"PENNINGTON ",
+    "State":"NJ",
+    "Zip":"08534-067",
+    "Assets":1611335,
+    "Income":1,
+    "Revenue":1
+  },
+  {
+    "ID":111,
+    "EIN":311626194,
+    "Label":"THE BODRI FOUNDATION",
+    "Address":"121 STEUART STREET",
+    "City":"SAN FRANCISCO ",
+    "State":"CA",
+    "Zip":"94105-123",
+    "Assets":2057993,
+    "Income":714168,
+    "Revenue":128923
+  },
+  {
+    "ID":15,
+    "EIN":10459572,
+    "Label":"ASSOCIATES OF THE OSHER MAP LIBRARY",
+    "Address":"PO BOX 9301",
+    "City":"PORTLAND ",
+    "State":"ME",
+    "Zip":"04104-930",
+    "Assets":2069047,
+    "Income":1314041,
+    "Revenue":1016634
+  },
+  {
+    "ID":84,
+    "EIN":942472322,
+    "Label":"RADIO BILINGUE INC",
+    "Address":"5005 E BELMONT AVE",
+    "City":"FRESNO ",
+    "State":"CA",
+    "Zip":"93727-244",
+    "Assets":2122159,
+    "Income":2398758,
+    "Revenue":2398758
+  },
+  {
+    "ID":76,
+    "EIN":522055624,
+    "Label":"NATIONAL FILM PRESERVATION FOUNDATION",
+    "Address":"870 MARKET ST STE 1113",
+    "City":"SAN FRANCISCO ",
+    "State":"CA",
+    "Zip":"94102-292",
+    "Assets":2182959,
+    "Income":1275764,
+    "Revenue":1160716
+  },
+  {
+    "ID":72,
+    "EIN":943006979,
+    "Label":"MORRISON & FOERSTER FOUNDATION",
+    "Address":"425 MARKET ST",
+    "City":"SAN FRANCISCO ",
+    "State":"CA",
+    "Zip":"94105-240",
+    "Assets":2379772,
+    "Income":3683272,
+    "Revenue":3683272
+  },
+  {
+    "ID":85,
+    "EIN":200755090,
+    "Label":"REALOGY CHARITABLE FOUNDATION INC",
+    "Address":"175 PARK AVE",
+    "City":"MADISON ",
+    "State":"NJ",
+    "Zip":"07940-112",
+    "Assets":2512829,
+    "Income":2701311,
+    "Revenue":2306415
+  },
+  {
+    "ID":35,
+    "EIN":363722029,
+    "Label":"COVENANT FOUNDATION",
+    "Address":"1270 AVE OF THE AMERICAS",
+    "City":"NEW YORK ",
+    "State":"NY",
+    "Zip":"10020-170",
+    "Assets":2662666,
+    "Income":3747286,
+    "Revenue":3747286
+  },
+  {
+    "ID":132,
+    "EIN":800304869,
+    "Label":"YERBA BUENA COMMUNITY BENEFIT DISTRICT",
+    "Address":"5 3RD ST STE 914",
+    "City":"SAN FRANCISCO ",
+    "State":"CA",
+    "Zip":"94103-321",
+    "Assets":2699231,
+    "Income":2456528,
+    "Revenue":2456528
+  },
+  {
+    "ID":70,
+    "EIN":237749796,
+    "Label":"MIDDLE EAST FORUM",
+    "Address":"SUITE 1050",
+    "City":"PHILADELPHIA ",
+    "State":"PA",
+    "Zip":"19102-000",
+    "Assets":2741137,
+    "Income":4690909,
+    "Revenue":4676303
+  },
+  {
+    "ID":116,
+    "EIN":943348127,
+    "Label":"THE LEVINE-LENT FAMILY FOUNDATION",
+    "Address":"121 STEUART STREET",
+    "City":"SAN FRANCISCO ",
+    "State":"CA",
+    "Zip":"94105-123",
+    "Assets":2947102,
+    "Income":2336046,
+    "Revenue":1059655
+  },
+  {
+    "ID":62,
+    "EIN":943331010,
+    "Label":"JUSTGIVE",
+    "Address":"312 SUTTER ST STE 410",
+    "City":"SAN FRANCISCO ",
+    "State":"CA",
+    "Zip":"94108-431",
+    "Assets":3283395,
+    "Income":42459207,
+    "Revenue":42358313
+  },
+  {
+    "ID":110,
+    "EIN":943104872,
+    "Label":"THE BERNARD OSHER JEWISH PHILANTHROPIES FOUNDATION",
+    "Address":"121 STEUART STREET",
+    "City":"SAN FRANCISCO ",
+    "State":"CA",
+    "Zip":"94105-123",
+    "Assets":3674984,
+    "Income":3352922,
+    "Revenue":326686
+  },
+  {
+    "ID":65,
+    "EIN":363160355,
+    "Label":"KIRKLAND & ELLIS FOUNDATION",
+    "Address":"300 N LASALLE DR STE 1018",
+    "City":"CHICAGO ",
+    "State":"IL",
+    "Zip":"60654-340",
+    "Assets":4272186,
+    "Income":8434639,
+    "Revenue":7178264
+  },
+  {
+    "ID":96,
+    "EIN":941189846,
+    "Label":"SAN FRANCISCO OPERA GUILD",
+    "Address":"301 VAN NESS AVE",
+    "City":"SAN FRANCISCO ",
+    "State":"CA",
+    "Zip":"94102-450",
+    "Assets":4341228,
+    "Income":2128097,
+    "Revenue":2128097
+  },
+  {
+    "ID":68,
+    "EIN":770273721,
+    "Label":"LOS ALTOS COMMUNITY FOUNDATION",
+    "Address":"183 HILLVIEW AVE",
+    "City":"LOS ALTOS ",
+    "State":"CA",
+    "Zip":"94022-374",
+    "Assets":5737197,
+    "Income":8237518,
+    "Revenue":921746
+  },
+  {
+    "ID":66,
+    "EIN":770557004,
+    "Label":"KLA-TENCOR FOUNDATION",
+    "Address":"1 TECHNOLOGY DR",
+    "City":"MILPITAS ",
+    "State":"CA",
+    "Zip":"95035-791",
+    "Assets":6194253,
+    "Income":1,
+    "Revenue":1
+  },
+  {
+    "ID":52,
+    "EIN":943307253,
+    "Label":"INSTITUTE FOR JEWISH AND COMMUNITY RESEARCH",
+    "Address":"3198 FULTON ST",
+    "City":"SAN FRANCISCO ",
+    "State":"CA",
+    "Zip":"94118-381",
+    "Assets":7139090,
+    "Income":2749875,
+    "Revenue":812904
+  },
+  {
+    "ID":20,
+    "EIN":510515757,
+    "Label":"BINGHAM OSBORN & SCARBOROUGH FOUNDATION",
+    "Address":"5 HAMILTON LNDG STE 200",
+    "City":"NOVATO ",
+    "State":"CA",
+    "Zip":"94949-826",
+    "Assets":7214396,
+    "Income":1249658,
+    "Revenue":690174
+  },
+  {
+    "ID":109,
+    "EIN":943399181,
+    "Label":"TAUBE KORET CAMPUS FOR JEWISH LIFE",
+    "Address":"121 STEUART STREET",
+    "City":"SAN FRANCISCO ",
+    "State":"CA",
+    "Zip":"94105-123",
+    "Assets":7289026,
+    "Income":1,
+    "Revenue":1
+  },
+  {
+    "ID":3,
+    "EIN":131566058,
+    "Label":"AMERICAN CRAFT COUNCIL",
+    "Address":"1224 MARSHALL ST NE STE 200",
+    "City":"MINNEAPOLIS ",
+    "State":"MN",
+    "Zip":"55413-108",
+    "Assets":7343454,
+    "Income":5046248,
+    "Revenue":4835964
+  },
+  {
+    "ID":119,
+    "EIN":943308293,
+    "Label":"THE PRENTICE AND PAUL@SACK PHOTOGRAPHIC TRUST",
+    "Address":"111 PINE ST STE 1600",
+    "City":"SAN FRANCISCO ",
+    "State":"CA",
+    "Zip":"94111-561",
+    "Assets":7415360,
+    "Income":40021,
+    "Revenue":40021
+  },
+  {
+    "ID":50,
+    "EIN":942686530,
+    "Label":"HORIZONS FOUNDATION",
+    "Address":"550 MONTGOMERY STREET SUITE 70",
+    "City":"SAN FRANCISCO ",
+    "State":"CA",
+    "Zip":"94111-253",
+    "Assets":7591272,
+    "Income":4947771,
+    "Revenue":2678194
+  },
+  {
+    "ID":51,
+    "EIN":943067804,
+    "Label":"INDEPENDENT CHARITIES OF AMERICA",
+    "Address":"1100 LARKSPUR LANDING CIRCLE",
+    "City":"LARKSPUR ",
+    "State":"CA",
+    "Zip":"94939-182",
+    "Assets":7897786,
+    "Income":34066461,
+    "Revenue":34066461
+  },
+  {
+    "ID":6,
+    "EIN":942951480,
+    "Label":"AMERICAN HIMALAYAN FOUNDATION",
+    "Address":"909 MONTGOMERY ST",
+    "City":"SAN FRANCISCO ",
+    "State":"CA",
+    "Zip":"94133-461",
+    "Assets":8872506,
+    "Income":5542229,
+    "Revenue":5289927
+  },
+  {
+    "ID":18,
+    "EIN":204571122,
+    "Label":"BERNARD AND BARBRO FOUNDATION",
+    "Address":"121 STEUART STREET",
+    "City":"SAN FRANCISCO ",
+    "State":"CA",
+    "Zip":"94105-123",
+    "Assets":9018809,
+    "Income":214880,
+    "Revenue":101448
+  },
+  {
+    "ID":36,
+    "EIN":721563142,
+    "Label":"DIRK AND CHARLENE KABCENELL FOUNDATION",
+    "Address":"2440 W EL CAMINO REAL STE 300",
+    "City":"MOUNTAIN VIEW ",
+    "State":"CA",
+    "Zip":"94040-149",
+    "Assets":9308193,
+    "Income":2704452,
+    "Revenue":2655514
+  },
+  {
+    "ID":30,
+    "EIN":412024986,
+    "Label":"COMMON SENSE MEDIA",
+    "Address":"650 TOWNSEND ST STE 435",
+    "City":"SAN FRANCISCO ",
+    "State":"CA",
+    "Zip":"94103-622",
+    "Assets":9583277,
+    "Income":13763695,
+    "Revenue":13071783
+  },
+  {
+    "ID":39,
+    "EIN":946107956,
+    "Label":"FRANK A CAMPINI FOUNDATION",
+    "Address":"220 SANSOME ST STE 700",
+    "City":"SAN FRANCISCO ",
+    "State":"CA",
+    "Zip":"94104-272",
+    "Assets":10069299,
+    "Income":1,
+    "Revenue":1
+  },
+  {
+    "ID":83,
+    "EIN":113690722,
+    "Label":"PEARSON CHARITABLE FOUNDATION",
+    "Address":"330 HUDSON ST",
+    "City":"NEW YORK ",
+    "State":"NY",
+    "Zip":"10013-101",
+    "Assets":11190706,
+    "Income":16937672,
+    "Revenue":16853011
+  },
+  {
+    "ID":56,
+    "EIN":521611546,
+    "Label":"JEWELS OF CHARITY INC",
+    "Address":"443 NORTHFIELD AVE",
+    "City":"WEST ORANGE ",
+    "State":"NJ",
+    "Zip":"07052-309",
+    "Assets":12401295,
+    "Income":3153267,
+    "Revenue":22188
+  },
+  {
+    "ID":122,
+    "EIN":226028959,
+    "Label":"UNITED WAY OF BERGEN COUNTY",
+    "Address":"6 FOREST AVENUE",
+    "City":"PARAMUS ",
+    "State":"NJ",
+    "Zip":"07652-524",
+    "Assets":12689082,
+    "Income":10761086,
+    "Revenue":10634977
+  },
+  {
+    "ID":49,
+    "EIN":300098254,
+    "Label":"HOMEBUILDING COMMUNITY FOUNDATION",
+    "Address":"5120 WOODWAY DR STE 6000",
+    "City":"HOUSTON ",
+    "State":"TX",
+    "Zip":"77056-179",
+    "Assets":12978591,
+    "Income":7432069,
+    "Revenue":977292
+  },
+  {
+    "ID":126,
+    "EIN":941450153,
+    "Label":"UNITED WAY SILICON VALLEY",
+    "Address":"1400 PARKMOOR AVE STE 250",
+    "City":"SAN JOSE ",
+    "State":"CA",
+    "Zip":"95126-373",
+    "Assets":13209483,
+    "Income":14258845,
+    "Revenue":13959883
+  },
+  {
+    "ID":99,
+    "EIN":943151591,
+    "Label":"SARLO FOUNDATION",
+    "Address":"121 STEUART STREET",
+    "City":"SAN FRANCISCO ",
+    "State":"CA",
+    "Zip":"94105-123",
+    "Assets":14366599,
+    "Income":7138669,
+    "Revenue":680514
+  },
+  {
+    "ID":123,
+    "EIN":850277138,
+    "Label":"UNITED WAY OF CENTRAL NEW MEXICO",
+    "Address":"2340 ALAMO AVE SE FLR 2",
+    "City":"ALBUQUERQUE ",
+    "State":"NM",
+    "Zip":"87106-382",
+    "Assets":16328302,
+    "Income":26414549,
+    "Revenue":26414549
+  },
+  {
+    "ID":48,
+    "EIN":426549922,
+    "Label":"HEARTLAND CHARITABLE TRUST",
+    "Address":"PO BOX 747",
+    "City":"DUBUQUE ",
+    "State":"IA",
+    "Zip":"52004-074",
+    "Assets":16868813,
+    "Income":15948711,
+    "Revenue":6103331
+  },
+  {
+    "ID":74,
+    "EIN":943316088,
+    "Label":"MZ FOUNDATION",
+    "Address":"1330 BROADWAY STE 903",
+    "City":"OAKLAND ",
+    "State":"CA",
+    "Zip":"94612-250",
+    "Assets":17584288,
+    "Income":1,
+    "Revenue":1
+  },
+  {
+    "ID":16,
+    "EIN":431353948,
+    "Label":"AT&T FOUNDATION",
+    "Address":"208 S AKARD 100",
+    "City":"DALLAS ",
+    "State":"TX",
+    "Zip":"75202-420",
+    "Assets":18655778,
+    "Income":1,
+    "Revenue":1
+  },
+  {
+    "ID":42,
+    "EIN":521273585,
+    "Label":"GLOBAL IMPACT",
+    "Address":"1199 N FAIRFAX ST STE 300",
+    "City":"ALEXANDRIA ",
+    "State":"VA",
+    "Zip":"22314-144",
+    "Assets":19809362,
+    "Income":100197302,
+    "Revenue":99609283
+  },
+  {
+    "ID":125,
+    "EIN":941312348,
+    "Label":"UNITED WAY OF THE BAY AREA",
+    "Address":"221 MAIN ST STE 300",
+    "City":"SAN FRANCISCO ",
+    "State":"CA",
+    "Zip":"94105-191",
+    "Assets":22688895,
+    "Income":38423879,
+    "Revenue":33719351
+  },
+  {
+    "ID":34,
+    "EIN":943045948,
+    "Label":"CORPORATION OF THE FINE ARTS MUSEUMS",
+    "Address":"50 HAGIWARA TEA GARDEN DR",
+    "City":"SAN FRANCISCO ",
+    "State":"CA",
+    "Zip":"94118-450",
+    "Assets":24281274,
+    "Income":47249595,
+    "Revenue":42113660
+  },
+  {
+    "ID":11,
+    "EIN":943325776,
+    "Label":"ART SUPPORTING FOUNDATION",
+    "Address":"601 CALIFORNIA STREET",
+    "City":"SAN FRANCISCO ",
+    "State":"CA",
+    "Zip":"94108-280",
+    "Assets":24338041,
+    "Income":259134,
+    "Revenue":259134
+  },
+  {
+    "ID":108,
+    "EIN":943244838,
+    "Label":"TAUBE FOUNDATION FOR JEWISH LIFE AND CULTURE",
+    "Address":"121 STEUART STREET",
+    "City":"SAN FRANCISCO ",
+    "State":"CA",
+    "Zip":"94105-123",
+    "Assets":25196026,
+    "Income":11877296,
+    "Revenue":1473642
+  },
+  {
+    "ID":9,
+    "EIN":201514742,
+    "Label":"ANDROCLES FOUNDATION INC",
+    "Address":"534 BROADHOLLOW RD STE 120",
+    "City":"MELVILLE ",
+    "State":"NY",
+    "Zip":"11747-360",
+    "Assets":27465398,
+    "Income":1,
+    "Revenue":1
+  },
+  {
+    "ID":44,
+    "EIN":541282616,
+    "Label":"GOOD360",
+    "Address":"1330 BRADDOCK PL STE 600",
+    "City":"ALEXANDRIA ",
+    "State":"VA",
+    "Zip":"22314-970",
+    "Assets":30707391,
+    "Income":298677645,
+    "Revenue":298677645
+  },
+  {
+    "ID":112,
+    "EIN":680386518,
+    "Label":"THE CSU CHICO RESEARCH FOUNDATION",
+    "Address":"CALIFORNIA STATE UNIVERSITY CHICO B",
+    "City":"CHICO ",
+    "State":"CA",
+    "Zip":"95929-024",
+    "Assets":32584880,
+    "Income":39056523,
+    "Revenue":38821690
+  },
+  {
+    "ID":103,
+    "EIN":954765734,
+    "Label":"SOUTHERN CALIFORNIA PUBLIC RADIO",
+    "Address":"474 S RAYMOND AVENUE",
+    "City":"PASADENA ",
+    "State":"CA",
+    "Zip":"91105-262",
+    "Assets":36238980,
+    "Income":20798773,
+    "Revenue":20798773
+  },
+  {
+    "ID":81,
+    "EIN":200253310,
+    "Label":"PASADENA COMMUNITY FOUNDATION",
+    "Address":"260 S LOS ROBLES AVE STE 119",
+    "City":"PASADENA ",
+    "State":"CA",
+    "Zip":"91101-286",
+    "Assets":36868916,
+    "Income":17698493,
+    "Revenue":9398261
+  },
+  {
+    "ID":106,
+    "EIN":943381315,
+    "Label":"T GARY AND KATHLEEN ROGERS SUPPORTING FAMILY FOUNDATION",
+    "Address":"200 FRANK H OGAWA PLZ",
+    "City":"OAKLAND ",
+    "State":"CA",
+    "Zip":"94612-200",
+    "Assets":40493042,
+    "Income":926828,
+    "Revenue":872432
+  },
+  {
+    "ID":41,
+    "EIN":237404790,
+    "Label":"GENERAL EMPLOYEES TRUST FUND",
+    "Address":"2323 EASTLAKE AVE E",
+    "City":"SEATTLE ",
+    "State":"WA",
+    "Zip":"98102-330",
+    "Assets":42425116,
+    "Income":124987503,
+    "Revenue":90737212
+  },
+  {
+    "ID":2,
+    "EIN":946135772,
+    "Label":"AMERICAN CONSERVATORY THEATRE FOUNDATION",
+    "Address":"30 GRANT AVE FL 6",
+    "City":"SAN FRANCISCO ",
+    "State":"CA",
+    "Zip":"94108-588",
+    "Assets":44088359,
+    "Income":19963486,
+    "Revenue":18222105
+  },
+  {
+    "ID":88,
+    "EIN":941196211,
+    "Label":"SAN FRANCISCO ART INSTITUTE",
+    "Address":"800 CHESTNUT ST",
+    "City":"SAN FRANCISCO ",
+    "State":"CA",
+    "Zip":"94133-220",
+    "Assets":44743170,
+    "Income":27086037,
+    "Revenue":25686507
+  },
+  {
+    "ID":45,
+    "EIN":941581707,
+    "Label":"GRADUATE THEOLOGICAL UNION",
+    "Address":"2400 RIDGE RD",
+    "City":"BERKELEY ",
+    "State":"CA",
+    "Zip":"94709-121",
+    "Assets":44772918,
+    "Income":17866922,
+    "Revenue":8058501
+  },
+  {
+    "ID":93,
+    "EIN":942990335,
+    "Label":"SAN FRANCISCO JAZZ ORGANIZATION",
+    "Address":"201 FRANKLIN ST",
+    "City":"SAN FRANCISCO ",
+    "State":"CA",
+    "Zip":"94102-000",
+    "Assets":46604496,
+    "Income":28764369,
+    "Revenue":24251634
+  },
+  {
+    "ID":32,
+    "EIN":222848738,
+    "Label":"CORNELL UNIVERSITY FOUNDATION",
+    "Address":"130 E SENECA ST STE 400",
+    "City":"ITHACA ",
+    "State":"NY",
+    "Zip":"14850-435",
+    "Assets":50676357,
+    "Income":30822308,
+    "Revenue":9544547
+  },
+  {
+    "ID":0,
+    "EIN":943210509,
+    "Label":"ALEXANDER M AND JUNE L MAISIN FOUNDATION",
+    "Address":"121 STEUART STREET",
+    "City":"SAN FRANCISCO ",
+    "State":"CA",
+    "Zip":"94105-123",
+    "Assets":52096726,
+    "Income":8528811,
+    "Revenue":2051918
+  },
+  {
+    "ID":118,
+    "EIN":941633387,
+    "Label":"THE NUEVA SCHOOL",
+    "Address":"6565 SKYLINE BLVD",
+    "City":"HILLSBOROUGH ",
+    "State":"CA",
+    "Zip":"94010-622",
+    "Assets":55900309,
+    "Income":20483661,
+    "Revenue":16810106
+  },
+  {
+    "ID":79,
+    "EIN":680480736,
+    "Label":"NETWORK FOR GOOD INC",
+    "Address":"1140 CONNECTICUT AVE NW STE 700",
+    "City":"WASHINGTON ",
+    "State":"DC",
+    "Zip":"20036-401",
+    "Assets":56249127,
+    "Income":171608968,
+    "Revenue":171608968
+  },
+  {
+    "ID":13,
+    "EIN":941191246,
+    "Label":"ASIA FOUNDATION",
+    "Address":"465 CALIFORNIA ST FL 9",
+    "City":"SAN FRANCISCO ",
+    "State":"CA",
+    "Zip":"94104-182",
+    "Assets":61636301,
+    "Income":154671812,
+    "Revenue":148526277
+  },
+  {
+    "ID":89,
+    "EIN":941415298,
+    "Label":"SAN FRANCISCO BALLET ASSOCIATION",
+    "Address":"455 FRANKLIN ST 3RD FLR",
+    "City":"SAN FRANCISCO ",
+    "State":"CA",
+    "Zip":"94102-443",
+    "Assets":63784244,
+    "Income":46013191,
+    "Revenue":40237683
+  },
+  {
+    "ID":60,
+    "EIN":941156528,
+    "Label":"JEWISH FAMILY & CHILDRENS SERVICES",
+    "Address":"2150 POST ST",
+    "City":"SAN FRANCISCO ",
+    "State":"CA",
+    "Zip":"94115-350",
+    "Assets":68195545,
+    "Income":44974171,
+    "Revenue":31667544
+  },
+  {
+    "ID":124,
+    "EIN":590830840,
+    "Label":"UNITED WAY OF MIAMI-DADE INC",
+    "Address":"3250 SW 3RD AVE",
+    "City":"MIAMI ",
+    "State":"FL",
+    "Zip":"33129-271",
+    "Assets":85500974,
+    "Income":55854375,
+    "Revenue":47647964
+  },
+  {
+    "ID":90,
+    "EIN":942747262,
+    "Label":"SAN FRANCISCO BALLET ENDOWMENT FOUNDATION",
+    "Address":"455 FRANKLIN ST",
+    "City":"SAN FRANCISCO ",
+    "State":"CA",
+    "Zip":"94102-443",
+    "Assets":94699331,
+    "Income":13245683,
+    "Revenue":4470977
+  },
+  {
+    "ID":67,
+    "EIN":941241309,
+    "Label":"KQED INC",
+    "Address":"2601 MARIPOSA ST",
+    "City":"SAN FRANCISCO ",
+    "State":"CA",
+    "Zip":"94110-142",
+    "Assets":101383841,
+    "Income":63996680,
+    "Revenue":61893211
+  },
+  {
+    "ID":31,
+    "EIN":470920831,
+    "Label":"CONTEMPOARY JEWISH MUSEUM",
+    "Address":"736 MISSION ST",
+    "City":"SAN FRANCISCO ",
+    "State":"CA",
+    "Zip":"94103-311",
+    "Assets":112264652,
+    "Income":19133917,
+    "Revenue":11395532
+  },
+  {
+    "ID":91,
+    "EIN":941156610,
+    "Label":"SAN FRANCISCO CONSERVATORY OF MUSIC INC",
+    "Address":"50 OAK ST",
+    "City":"SAN FRANCISCO ",
+    "State":"CA",
+    "Zip":"94102-601",
+    "Assets":113080531,
+    "Income":39114416,
+    "Revenue":23784769
+  },
+  {
+    "ID":21,
+    "EIN":136092981,
+    "Label":"BOARD OF TRUSTEES EQUITY LEAGUE HEALTH TRUST FUND",
+    "Address":"165 W 46TH ST FL 14",
+    "City":"NEW YORK ",
+    "State":"NY",
+    "Zip":"10036-250",
+    "Assets":114089977,
+    "Income":163743235,
+    "Revenue":68083932
+  },
+  {
+    "ID":14,
+    "EIN":941704765,
+    "Label":"ASIAN ART MUSEUM FOUNDATION OF SAN FRANCISCO",
+    "Address":"200 LARKIN ST",
+    "City":"SAN FRANCISCO ",
+    "State":"CA",
+    "Zip":"94102-473",
+    "Assets":116387106,
+    "Income":157116526,
+    "Revenue":55490252
+  },
+  {
+    "ID":23,
+    "EIN":941156485,
+    "Label":"CALIFORNIA COLLEGE OF THE ARTS",
+    "Address":"1111 8TH ST",
+    "City":"SAN FRANCISCO ",
+    "State":"CA",
+    "Zip":"94107-224",
+    "Assets":128347593,
+    "Income":101575425,
+    "Revenue":83742703
+  },
+  {
+    "ID":58,
+    "EIN":943227260,
+    "Label":"JEWISH COMMUNITY CENTER OF SAN FRANCISCO",
+    "Address":"3200 CALIFORNIA ST",
+    "City":"SAN FRANCISCO ",
+    "State":"CA",
+    "Zip":"94118-190",
+    "Assets":129556064,
+    "Income":43044662,
+    "Revenue":34060303
+  },
+  {
+    "ID":47,
+    "EIN":530242992,
+    "Label":"GREATER WASHINGTON EDUCATIONAL TELECOMMUNICATIONS ASSOCIATION INC",
+    "Address":"3939 CAMPBELL AVENUE",
+    "City":"ARLINGTON ",
+    "State":"VA",
+    "Zip":"22206-344",
+    "Assets":139178817,
+    "Income":76353389,
+    "Revenue":75616114
+  },
+  {
+    "ID":121,
+    "EIN":510198509,
+    "Label":"TIDES FOUNDATION",
+    "Address":"PO BOX 29903",
+    "City":"SAN FRANCISCO ",
+    "State":"CA",
+    "Zip":"94129-090",
+    "Assets":156657142,
+    "Income":159774103,
+    "Revenue":96474947
+  },
+  {
+    "ID":113,
+    "EIN":941696494,
+    "Label":"THE EXPLORATORIUM",
+    "Address":"3601 LYON ST",
+    "City":"SAN FRANCISCO ",
+    "State":"CA",
+    "Zip":"94123-101",
+    "Assets":157012815,
+    "Income":167259969,
+    "Revenue":56364181
+  },
+  {
+    "ID":115,
+    "EIN":131624240,
+    "Label":"THE JEWISH FEDERATIONS OF NORTH AMERICA INC",
+    "Address":"25 BROADWAY FL 17",
+    "City":"NEW YORK ",
+    "State":"NY",
+    "Zip":"10004-101",
+    "Assets":179564660,
+    "Income":51434384,
+    "Revenue":48180517
+  },
+  {
+    "ID":87,
+    "EIN":956042721,
+    "Label":"SAN DIEGO STATE UNIVERSITY FOUNDATION",
+    "Address":"5250 CAMPANILE DR",
+    "City":"SAN DIEGO ",
+    "State":"CA",
+    "Zip":"92182-194",
+    "Assets":186933922,
+    "Income":212251787,
+    "Revenue":184025471
+  },
+  {
+    "ID":33,
+    "EIN":132607374,
+    "Label":"CORPORATION FOR PUBLIC BROADCASTING",
+    "Address":"401 9TH STREET NW",
+    "City":"WASHINGTON ",
+    "State":"DC",
+    "Zip":"20004-212",
+    "Assets":202026503,
+    "Income":1074930065,
+    "Revenue":473225376
+  },
+  {
+    "ID":95,
+    "EIN":940836240,
+    "Label":"SAN FRANCISCO OPERA ASSOCIATION",
+    "Address":"301 VAN NESS AVE WAR MEMORIAL OPERA",
+    "City":"SAN FRANCISCO ",
+    "State":"CA",
+    "Zip":"94102-000",
+    "Assets":211119844,
+    "Income":101934208,
+    "Revenue":62947804
+  },
+  {
+    "ID":114,
+    "EIN":720408921,
+    "Label":"THE GREATER NEW ORLEANS FOUNDATION",
+    "Address":"1055 ST CHARLES AVE STE 100",
+    "City":"NEW ORLEANS ",
+    "State":"LA",
+    "Zip":"70130-398",
+    "Assets":212855549,
+    "Income":53888024,
+    "Revenue":27042153
+  },
+  {
+    "ID":73,
+    "EIN":42103916,
+    "Label":"MUSEUM OF SCIENCE",
+    "Address":"1 SCIENCE PARK",
+    "City":"BOSTON ",
+    "State":"MA",
+    "Zip":"02114-109",
+    "Assets":221640179,
+    "Income":95216800,
+    "Revenue":66447920
+  },
+  {
+    "ID":25,
+    "EIN":952962604,
+    "Label":"CALIFORNIA LUTHERAN UNIVERSITY",
+    "Address":"60 WEST OLSEN ROAD M/C 1200",
+    "City":"THOUSAND OAKS ",
+    "State":"CA",
+    "Zip":"91360-270",
+    "Assets":239666769,
+    "Income":158581044,
+    "Revenue":127703378
+  },
+  {
+    "ID":37,
+    "EIN":946070996,
+    "Label":"EAST BAY COMMUNITY FOUNDATION",
+    "Address":"200 FRANK H OGAWA PLZ",
+    "City":"OAKLAND ",
+    "State":"CA",
+    "Zip":"94612-200",
+    "Assets":262358564,
+    "Income":23737081,
+    "Revenue":23605868
+  },
+  {
+    "ID":94,
+    "EIN":941156300,
+    "Label":"SAN FRANCISCO MUSEUM OF MODERN ART",
+    "Address":"151 3RD ST",
+    "City":"SAN FRANCISCO ",
+    "State":"CA",
+    "Zip":"94103-310",
+    "Assets":262858593,
+    "Income":107216428,
+    "Revenue":49034556
+  },
+  {
+    "ID":78,
+    "EIN":530210807,
+    "Label":"NATIONAL TRUST FOR HISTORIC PRESERVATION IN THE UNITED STATES",
+    "Address":"2600 VIRGINIA AVE NW STE 1000",
+    "City":"WASHINGTON ",
+    "State":"DC",
+    "Zip":"20037-192",
+    "Assets":298677434,
+    "Income":1,
+    "Revenue":1
+  },
+  {
+    "ID":97,
+    "EIN":941156284,
+    "Label":"SAN FRANCISCO SYMPHONY",
+    "Address":"201 VAN NESS AVE",
+    "City":"SAN FRANCISCO ",
+    "State":"CA",
+    "Zip":"94102-450",
+    "Assets":306759580,
+    "Income":97699666,
+    "Revenue":86419597
+  },
+  {
+    "ID":29,
+    "EIN":237098397,
+    "Label":"COLORADO STATE UNIVERSITY FOUNDATION",
+    "Address":"410 UNIVERSITY SERVICES CTR",
+    "City":"FT COLLINS ",
+    "State":"CO",
+    "Zip":"80523-910",
+    "Assets":325352506,
+    "Income":138441520,
+    "Revenue":54519612
+  },
+  {
+    "ID":4,
+    "EIN":341747398,
+    "Label":"AMERICAN ENDOWMENT FOUNDATION",
+    "Address":"PO BOX 911",
+    "City":"HUDSON ",
+    "State":"OH",
+    "Zip":"44236-591",
+    "Assets":329375167,
+    "Income":133686889,
+    "Revenue":133686889
+  },
+  {
+    "ID":69,
+    "EIN":943007979,
+    "Label":"MARIN COMMUNITY FOUNDATION",
+    "Address":"5 HAMILTON LANDING STE 200",
+    "City":"NOVATO ",
+    "State":"CA",
+    "Zip":"94949-826",
+    "Assets":333013779,
+    "Income":111341426,
+    "Revenue":97593235
+  },
+  {
+    "ID":17,
+    "EIN":141782466,
+    "Label":"AYCO CHARITABLE FOUNDATION",
+    "Address":"25 BRITISH AMERICAN BLVD",
+    "City":"LATHAM ",
+    "State":"NY",
+    "Zip":"12110-140",
+    "Assets":346433200,
+    "Income":538986614,
+    "Revenue":161373700
+  },
+  {
+    "ID":127,
+    "EIN":311663020,
+    "Label":"US CHARITABLE GIFT TRUST",
+    "Address":"1100 NORTH MARKET STREET 2ND FLOOR",
+    "City":"WILMINGTON ",
+    "State":"DE",
+    "Zip":"19890-110",
+    "Assets":432823946,
+    "Income":168258134,
+    "Revenue":78416487
+  },
+  {
+    "ID":38,
+    "EIN":946096509,
+    "Label":"FINE ARTS MUSEUMS FOUNDATION",
+    "Address":"50 HAGIWARA TEA GARDEN DR",
+    "City":"SAN FRANCISCO ",
+    "State":"CA",
+    "Zip":"94118-450",
+    "Assets":468218866,
+    "Income":175540765,
+    "Revenue":21535198
+  },
+  {
+    "ID":7,
+    "EIN":131656634,
+    "Label":"AMERICAN JEWISH JOINT DISTRIBUTION COMMITTEE INC",
+    "Address":"711 THIRD AVE",
+    "City":"NEW YORK ",
+    "State":"NY",
+    "Zip":"10017-401",
+    "Assets":483793948,
+    "Income":376036280,
+    "Revenue":316241721
+  },
+  {
+    "ID":120,
+    "EIN":916013536,
+    "Label":"THE SEATTLE FOUNDATION",
+    "Address":"1200 5TH AVE STE 1300",
+    "City":"SEATTLE ",
+    "State":"WA",
+    "Zip":"98101-315",
+    "Assets":585799314,
+    "Income":224388217,
+    "Revenue":66689526
+  },
+  {
+    "ID":43,
+    "EIN":311774905,
+    "Label":"GOLDMAN SACHS PHILANTHROPY FUND",
+    "Address":"30 HUDSON ST 15TH FL",
+    "City":"JERSEY CITY ",
+    "State":"NJ",
+    "Zip":"07302-460",
+    "Assets":591788105,
+    "Income":911924652,
+    "Revenue":273830821
+  },
+  {
+    "ID":59,
+    "EIN":941156533,
+    "Label":"JEWISH COMMUNITY FEDERATION OF S F MARIN PENINSULA & SONOMA COUNTIES",
+    "Address":"121 STEUART STREET",
+    "City":"SAN FRANCISCO ",
+    "State":"CA",
+    "Zip":"94105-123",
+    "Assets":675137451,
+    "Income":161192035,
+    "Revenue":99552932
+  },
+  {
+    "ID":98,
+    "EIN":943147856,
+    "Label":"SANDLER FOUNDATION",
+    "Address":"121 STEUART STREET",
+    "City":"SAN FRANCISCO ",
+    "State":"CA",
+    "Zip":"94105-123",
+    "Assets":683935436,
+    "Income":47835830,
+    "Revenue":14415765
+  },
+  {
+    "ID":24,
+    "EIN":954523231,
+    "Label":"CALIFORNIA HEALTHCARE FOUNDATION",
+    "Address":"1438 WEBSTER ST STE 400",
+    "City":"OAKLAND ",
+    "State":"CA",
+    "Zip":"94612-322",
+    "Assets":722790343,
+    "Income":65557284,
+    "Revenue":24449889
+  },
+  {
+    "ID":22,
+    "EIN":941156258,
+    "Label":"CALIFORNIA ACADEMY OF SCIENCE",
+    "Address":"55 MUSIC CONCOURSE DR",
+    "City":"SAN FRANCISCO ",
+    "State":"CA",
+    "Zip":"94118-450",
+    "Assets":830687480,
+    "Income":1774849447,
+    "Revenue":65982876
+  },
+  {
+    "ID":46,
+    "EIN":431152398,
+    "Label":"GREATER KANSAS CITY COMMUNITY FOUNDATION",
+    "Address":"1055 BROADWAY ST STE 130",
+    "City":"KANSAS CITY ",
+    "State":"MO",
+    "Zip":"64105-159",
+    "Assets":1161708348,
+    "Income":321967410,
+    "Revenue":152012476
+  },
+  {
+    "ID":57,
+    "EIN":237174183,
+    "Label":"JEWISH COMMUNAL FUND",
+    "Address":"575 MADISON AVENUE",
+    "City":"NEW YORK ",
+    "State":"NY",
+    "Zip":"10022-251",
+    "Assets":1179807027,
+    "Income":1948411362,
+    "Revenue":390169085
+  },
+  {
+    "ID":77,
+    "EIN":530193519,
+    "Label":"NATIONAL GEOGRAPHIC SOCIETY",
+    "Address":"1145 17TH ST NW",
+    "City":"WASHINGTON ",
+    "State":"DC",
+    "Zip":"20036-470",
+    "Assets":1227203295,
+    "Income":604636740,
+    "Revenue":456080227
+  },
+  {
+    "ID":8,
+    "EIN":530196549,
+    "Label":"AMERICAN UNIVERSITY",
+    "Address":"C/O CONTROLLERS OFFICE",
+    "City":"WASHINGTON ",
+    "State":"DC",
+    "Zip":"20016-000",
+    "Assets":1419399768,
+    "Income":785138465,
+    "Revenue":620191993
+  },
+  {
+    "ID":117,
+    "EIN":133062214,
+    "Label":"THE NEW YORK COMMUNITY TRUST",
+    "Address":"909 THIRD AVE STE 22ND FL",
+    "City":"NEW YORK ",
+    "State":"NY",
+    "Zip":"10022-473",
+    "Assets":2147925714,
+    "Income":734970466,
+    "Revenue":262682259
+  },
+  {
+    "ID":101,
+    "EIN":205205488,
+    "Label":"SILICON VALLEY COMMUNITY FOUNDATION",
+    "Address":"2440 WEST EL CAMINO REAL",
+    "City":"MOUNTAIN VIEW ",
+    "State":"CA",
+    "Zip":"94040-149",
+    "Assets":2193211675,
+    "Income":1969923161,
+    "Revenue":997817676
+  },
+  {
+    "ID":100,
+    "EIN":311640316,
+    "Label":"SCHWAB CHARITABLE FUND",
+    "Address":"211 MAIN ST",
+    "City":"SAN FRANCISCO ",
+    "State":"CA",
+    "Zip":"94105-190",
+    "Assets":3175884124,
+    "Income":1164813914,
+    "Revenue":722470714
+  },
+  {
+    "ID":63,
+    "EIN":941105628,
+    "Label":"KAISER FOUNDATION HOSPITALS",
+    "Address":"2701 NW VAUGHN STREET",
+    "City":"PORTLAND ",
+    "State":"OR",
+    "Zip":"97210-531",
+    "Assets":28948439297,
+    "Income":24188927784,
+    "Revenue":17980030355
+  },
+  {
+    "ID":19,
+    "EIN":776032284,
+    "Label":"BERNARD L MESSINGER FAMILY LIVING TRUST DTD 080582",
+    "Address":"PO BOX Q",
+    "City":"CARMEL ",
+    "State":"CA",
+    "Zip":"93921-058",
+    "Assets":6720,
+    "Income":32713,
+    "Revenue":32713
+  },
+  {
+    "ID":131,
+    "EIN":132740460,
+    "Label":"WOMEN MAKE MOVIES INC",
+    "Address":"115 W 29TH ST RM 1200",
+    "City":"NEW YORK ",
+    "State":"NY",
+    "Zip":"10001-505",
+    "Assets":717066,
+    "Income":1,
+    "Revenue":1
+  }
+],
+'links':[
+  {
+    "Source":102,
+    "Target":97
+  },
+  {
+    "Source":19,
+    "Target":94
+  },
+  {
+    "Source":54,
+    "Target":91
+  },
+  {
+    "Source":28,
+    "Target":14
+  },
+  {
+    "Source":104,
+    "Target":31
+  },
+  {
+    "Source":104,
+    "Target":67
+  },
+  {
+    "Source":104,
+    "Target":97
+  },
+  {
+    "Source":10,
+    "Target":89
+  },
+  {
+    "Source":10,
+    "Target":34
+  },
+  {
+    "Source":92,
+    "Target":91
+  },
+  {
+    "Source":92,
+    "Target":88
+  },
+  {
+    "Source":129,
+    "Target":89
+  },
+  {
+    "Source":129,
+    "Target":95
+  },
+  {
+    "Source":12,
+    "Target":95
+  },
+  {
+    "Source":61,
+    "Target":97
+  },
+  {
+    "Source":64,
+    "Target":93
+  },
+  {
+    "Source":1,
+    "Target":113
+  },
+  {
+    "Source":5,
+    "Target":14
+  },
+  {
+    "Source":105,
+    "Target":97
+  },
+  {
+    "Source":105,
+    "Target":94
+  },
+  {
+    "Source":105,
+    "Target":34
+  },
+  {
+    "Source":130,
+    "Target":89
+  },
+  {
+    "Source":130,
+    "Target":97
+  },
+  {
+    "Source":130,
+    "Target":95
+  },
+  {
+    "Source":71,
+    "Target":108
+  },
+  {
+    "Source":107,
+    "Target":23
+  },
+  {
+    "Source":128,
+    "Target":89
+  },
+  {
+    "Source":128,
+    "Target":67
+  },
+  {
+    "Source":128,
+    "Target":97
+  },
+  {
+    "Source":128,
+    "Target":95
+  },
+  {
+    "Source":128,
+    "Target":34
+  },
+  {
+    "Source":111,
+    "Target":67
+  },
+  {
+    "Source":76,
+    "Target":113
+  },
+  {
+    "Source":72,
+    "Target":97
+  },
+  {
+    "Source":72,
+    "Target":94
+  },
+  {
+    "Source":85,
+    "Target":89
+  },
+  {
+    "Source":35,
+    "Target":31
+  },
+  {
+    "Source":132,
+    "Target":31
+  },
+  {
+    "Source":70,
+    "Target":108
+  },
+  {
+    "Source":116,
+    "Target":108
+  },
+  {
+    "Source":116,
+    "Target":34
+  },
+  {
+    "Source":62,
+    "Target":67
+  },
+  {
+    "Source":110,
+    "Target":31
+  },
+  {
+    "Source":65,
+    "Target":91
+  },
+  {
+    "Source":96,
+    "Target":95
+  },
+  {
+    "Source":68,
+    "Target":67
+  },
+  {
+    "Source":66,
+    "Target":67
+  },
+  {
+    "Source":20,
+    "Target":95
+  },
+  {
+    "Source":3,
+    "Target":23
+  },
+  {
+    "Source":119,
+    "Target":94
+  },
+  {
+    "Source":50,
+    "Target":89
+  },
+  {
+    "Source":51,
+    "Target":67
+  },
+  {
+    "Source":18,
+    "Target":59
+  },
+  {
+    "Source":18,
+    "Target":30
+  },
+  {
+    "Source":18,
+    "Target":29
+  },
+  {
+    "Source":18,
+    "Target":15
+  },
+  {
+    "Source":18,
+    "Target":8
+  },
+  {
+    "Source":18,
+    "Target":6
+  },
+  {
+    "Source":36,
+    "Target":67
+  },
+  {
+    "Source":36,
+    "Target":113
+  },
+  {
+    "Source":39,
+    "Target":91
+  },
+  {
+    "Source":39,
+    "Target":67
+  },
+  {
+    "Source":39,
+    "Target":95
+  },
+  {
+    "Source":39,
+    "Target":34
+  },
+  {
+    "Source":83,
+    "Target":67
+  },
+  {
+    "Source":56,
+    "Target":2
+  },
+  {
+    "Source":122,
+    "Target":113
+  },
+  {
+    "Source":49,
+    "Target":94
+  },
+  {
+    "Source":126,
+    "Target":95
+  },
+  {
+    "Source":99,
+    "Target":97
+  },
+  {
+    "Source":123,
+    "Target":89
+  },
+  {
+    "Source":48,
+    "Target":67
+  },
+  {
+    "Source":48,
+    "Target":94
+  },
+  {
+    "Source":74,
+    "Target":67
+  },
+  {
+    "Source":16,
+    "Target":31
+  },
+  {
+    "Source":16,
+    "Target":91
+  },
+  {
+    "Source":16,
+    "Target":89
+  },
+  {
+    "Source":16,
+    "Target":14
+  },
+  {
+    "Source":16,
+    "Target":67
+  },
+  {
+    "Source":16,
+    "Target":113
+  },
+  {
+    "Source":16,
+    "Target":2
+  },
+  {
+    "Source":16,
+    "Target":97
+  },
+  {
+    "Source":16,
+    "Target":95
+  },
+  {
+    "Source":16,
+    "Target":34
+  },
+  {
+    "Source":42,
+    "Target":67
+  },
+  {
+    "Source":125,
+    "Target":67
+  },
+  {
+    "Source":125,
+    "Target":113
+  },
+  {
+    "Source":125,
+    "Target":2
+  },
+  {
+    "Source":125,
+    "Target":97
+  },
+  {
+    "Source":125,
+    "Target":95
+  },
+  {
+    "Source":34,
+    "Target":38
+  },
+  {
+    "Source":34,
+    "Target":38
+  },
+  {
+    "Source":11,
+    "Target":94
+  },
+  {
+    "Source":108,
+    "Target":131
+  },
+  {
+    "Source":108,
+    "Target":125
+  },
+  {
+    "Source":108,
+    "Target":118
+  },
+  {
+    "Source":108,
+    "Target":115
+  },
+  {
+    "Source":108,
+    "Target":109
+  },
+  {
+    "Source":108,
+    "Target":86
+  },
+  {
+    "Source":108,
+    "Target":75
+  },
+  {
+    "Source":108,
+    "Target":60
+  },
+  {
+    "Source":108,
+    "Target":59
+  },
+  {
+    "Source":108,
+    "Target":58
+  },
+  {
+    "Source":108,
+    "Target":55
+  },
+  {
+    "Source":108,
+    "Target":53
+  },
+  {
+    "Source":108,
+    "Target":52
+  },
+  {
+    "Source":108,
+    "Target":45
+  },
+  {
+    "Source":108,
+    "Target":40
+  },
+  {
+    "Source":108,
+    "Target":26
+  },
+  {
+    "Source":108,
+    "Target":22
+  },
+  {
+    "Source":108,
+    "Target":7
+  },
+  {
+    "Source":9,
+    "Target":67
+  },
+  {
+    "Source":44,
+    "Target":2
+  },
+  {
+    "Source":81,
+    "Target":95
+  },
+  {
+    "Source":106,
+    "Target":67
+  },
+  {
+    "Source":106,
+    "Target":34
+  },
+  {
+    "Source":41,
+    "Target":2
+  },
+  {
+    "Source":32,
+    "Target":67
+  },
+  {
+    "Source":32,
+    "Target":113
+  },
+  {
+    "Source":0,
+    "Target":97
+  },
+  {
+    "Source":0,
+    "Target":34
+  },
+  {
+    "Source":79,
+    "Target":88
+  },
+  {
+    "Source":79,
+    "Target":67
+  },
+  {
+    "Source":13,
+    "Target":14
+  },
+  {
+    "Source":89,
+    "Target":90
+  },
+  {
+    "Source":89,
+    "Target":90
+  },
+  {
+    "Source":124,
+    "Target":95
+  },
+  {
+    "Source":90,
+    "Target":89
+  },
+  {
+    "Source":90,
+    "Target":89
+  },
+  {
+    "Source":67,
+    "Target":112
+  },
+  {
+    "Source":67,
+    "Target":103
+  },
+  {
+    "Source":67,
+    "Target":87
+  },
+  {
+    "Source":67,
+    "Target":84
+  },
+  {
+    "Source":67,
+    "Target":82
+  },
+  {
+    "Source":67,
+    "Target":25
+  },
+  {
+    "Source":21,
+    "Target":2
+  },
+  {
+    "Source":14,
+    "Target":77
+  },
+  {
+    "Source":47,
+    "Target":67
+  },
+  {
+    "Source":121,
+    "Target":94
+  },
+  {
+    "Source":33,
+    "Target":67
+  },
+  {
+    "Source":114,
+    "Target":113
+  },
+  {
+    "Source":73,
+    "Target":113
+  },
+  {
+    "Source":37,
+    "Target":14
+  },
+  {
+    "Source":37,
+    "Target":67
+  },
+  {
+    "Source":37,
+    "Target":113
+  },
+  {
+    "Source":37,
+    "Target":95
+  },
+  {
+    "Source":94,
+    "Target":119
+  },
+  {
+    "Source":94,
+    "Target":11
+  },
+  {
+    "Source":97,
+    "Target":91
+  },
+  {
+    "Source":97,
+    "Target":91
+  },
+  {
+    "Source":4,
+    "Target":67
+  },
+  {
+    "Source":4,
+    "Target":97
+  },
+  {
+    "Source":69,
+    "Target":67
+  },
+  {
+    "Source":69,
+    "Target":113
+  },
+  {
+    "Source":69,
+    "Target":34
+  },
+  {
+    "Source":17,
+    "Target":89
+  },
+  {
+    "Source":17,
+    "Target":2
+  },
+  {
+    "Source":17,
+    "Target":97
+  },
+  {
+    "Source":127,
+    "Target":67
+  },
+  {
+    "Source":38,
+    "Target":34
+  },
+  {
+    "Source":38,
+    "Target":34
+  },
+  {
+    "Source":120,
+    "Target":31
+  },
+  {
+    "Source":43,
+    "Target":91
+  },
+  {
+    "Source":43,
+    "Target":67
+  },
+  {
+    "Source":43,
+    "Target":113
+  },
+  {
+    "Source":43,
+    "Target":95
+  },
+  {
+    "Source":59,
+    "Target":91
+  },
+  {
+    "Source":59,
+    "Target":89
+  },
+  {
+    "Source":59,
+    "Target":18
+  },
+  {
+    "Source":59,
+    "Target":14
+  },
+  {
+    "Source":59,
+    "Target":2
+  },
+  {
+    "Source":59,
+    "Target":97
+  },
+  {
+    "Source":59,
+    "Target":108
+  },
+  {
+    "Source":59,
+    "Target":23
+  },
+  {
+    "Source":59,
+    "Target":93
+  },
+  {
+    "Source":59,
+    "Target":94
+  },
+  {
+    "Source":59,
+    "Target":95
+  },
+  {
+    "Source":59,
+    "Target":34
+  },
+  {
+    "Source":98,
+    "Target":67
+  },
+  {
+    "Source":24,
+    "Target":67
+  },
+  {
+    "Source":46,
+    "Target":91
+  },
+  {
+    "Source":46,
+    "Target":89
+  },
+  {
+    "Source":57,
+    "Target":31
+  },
+  {
+    "Source":117,
+    "Target":97
+  },
+  {
+    "Source":101,
+    "Target":31
+  },
+  {
+    "Source":101,
+    "Target":89
+  },
+  {
+    "Source":101,
+    "Target":14
+  },
+  {
+    "Source":101,
+    "Target":67
+  },
+  {
+    "Source":101,
+    "Target":113
+  },
+  {
+    "Source":101,
+    "Target":2
+  },
+  {
+    "Source":101,
+    "Target":97
+  },
+  {
+    "Source":101,
+    "Target":23
+  },
+  {
+    "Source":101,
+    "Target":93
+  },
+  {
+    "Source":101,
+    "Target":94
+  },
+  {
+    "Source":101,
+    "Target":95
+  },
+  {
+    "Source":101,
+    "Target":34
+  },
+  {
+    "Source":100,
+    "Target":31
+  },
+  {
+    "Source":100,
+    "Target":14
+  },
+  {
+    "Source":100,
+    "Target":67
+  },
+  {
+    "Source":100,
+    "Target":113
+  },
+  {
+    "Source":100,
+    "Target":2
+  },
+  {
+    "Source":100,
+    "Target":34
+  },
+  {
+    "Source":63,
+    "Target":67
+  },
+  {
+    "Source":27,
+    "Target":67
+  },
+  {
+    "Source":27,
+    "Target":2
+  },
+  {
+    "Source":27,
+    "Target":97
+  },
+  {
+    "Source":27,
+    "Target":93
+  },
+  {
+    "Source":78,
+    "Target":88
+  },
+  {
+    "Source":80,
+    "Target":23
+  },
+  {
+    "Source":80,
+    "Target":94
+  }
+]
+]
